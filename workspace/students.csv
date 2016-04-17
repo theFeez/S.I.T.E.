@@ -1,0 +1,5 @@
+LastName,FirstName,MiddleInitial,StudentId,Phone,Grade,SecNum,FullName
+Joe,Schmo,A,1234567,3050000000,12,ABC,"Schmo, Joe A"
+Lala,Becky,NULL,1234568,7860000000,12,ABC,"Lala, Becky"
+Sue,Sally,T,1234569,3051111111,10,HSU,"Sue, Sally T"
+Ford,Tom,NULL,1234569,7865555555,11,HDH,"Ford, Tom"
